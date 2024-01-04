@@ -1,0 +1,16 @@
+.card-container-women{
+    display: flex;
+    align-items: center;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 24px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    text-align: center;
+    gap: 4rem;
+    background-color: #d9d9d9;
+}
+.card-container-data img{
+    height: 150px;
+    margin: auto;
+}
